@@ -450,6 +450,7 @@
         max-width: 400px;
         margin-block: 40px;
         position: relative;
+        animation: float 2s ease-in-out infinite;
     }
 
     .Services .container .row .photo img{
@@ -547,7 +548,7 @@
     background-size: contain;
     background-position:  center;
     border-radius: 0px 5px 5px 0px;
-    font-size: 18px;
+    font-size: 16px;
     padding: 5px 8px;
     color: #fff;
     transition-duration: 0.5s;
@@ -757,7 +758,7 @@
         padding-inline: 10px;
         background-image: url("../imgs/leaves_pattern-469e0d34.png");
         height: fit-content;
-        margin-bottom: 50px;
+        margin-bottom: 30px;
     }
     
    .book .co_2 form{
